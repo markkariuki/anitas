@@ -1,8 +1,9 @@
-.banner {
+.flag {
   background-image: url('../images/backgrounds/landing.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 * {
   font-family: 'Raleway', monospace;
 }
