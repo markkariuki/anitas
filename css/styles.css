@@ -11,3 +11,33 @@
 .txt-white {
   color: #FFF;
 }
+
+.breakfast {
+  background-image: url('../images/foodtop/breakfast.jpg');
+}
+
+.lunch {
+  background-image: url('../images/foodtop/dinner2.jpg');
+}
+
+.dinner {
+  background-image: url('../images/foodtop/dinner.jpg');
+}
+
+#happy {
+  padding: 5.85%;
+}
+
+#party {
+  background: #F15A29;
+  padding: 5.85%;
+}
+
+.space {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.pdng {
+  padding: 40px;
+}
