@@ -64,29 +64,6 @@ background-image:url(../images/WHDQ-513685182.jpg);
   padding: 40px;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 25%;
-    background-color: ;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-}
-
-li a.active {
-    background-color:#f15b29;
-    color: white;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-li a:hover {
-    background-color: #555;
-    color: white;
+.party2 {
+background-color: orange;
 }
