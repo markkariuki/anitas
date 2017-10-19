@@ -12,10 +12,6 @@
   color: #FFF;
 }
 
-.breakfast {
-  background-image: url('../images/foodtop/breakfast.jpg');
-}
-
 
 .lunch {
   background-image: url('../images/foodtop/dinner2.jpg');
@@ -41,4 +37,22 @@
 
 .pdng {
   padding: 40px;
+}
+
+.overlay1 {
+  position: absolute;
+  top: 600px;
+  bottom: 0;
+  left: 378px;
+  right: ;
+  background-color: #FFFFFF;
+  opacity: 0.70;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+#breakfastb {
+  background-image: url("../images/breakfast.jpg");
 }
