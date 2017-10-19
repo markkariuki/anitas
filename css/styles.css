@@ -16,6 +16,9 @@
   background-image: url('../images/foodtop/breakfast.jpg');
   text-align: center;
 }
+#breakfast:hover{
+  background-color: rgba(244, 171, 46, 0.89)
+}
 
 .lunch {
   background-image: url('../images/foodtop/dinner2.jpg');
@@ -40,6 +43,9 @@
 
 .pdng {
   padding: 40px;
+}
+.pdng:hover{
+background-color: rgba(244, 171, 46, 0.89)
 }
 
 .tag {
