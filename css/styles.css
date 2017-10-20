@@ -2,6 +2,7 @@
   background-image: url('../images/backgrounds/landing.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 * {
@@ -96,6 +97,10 @@ background-color: rgba(244, 171, 46, 0.89)
 background-color: orange;
 }
 
-#food{
+.food{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 100px;
   background-image: url(../images/backgrounds/foodsBg.jpg);
+  background-attachment: fixed;
 }
