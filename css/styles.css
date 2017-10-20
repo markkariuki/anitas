@@ -100,7 +100,10 @@ background-color: orange;
 .food{
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 100px;
+  padding: 50px;
   background-image: url(../images/backgrounds/foodsBg.jpg);
   background-attachment: fixed;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
