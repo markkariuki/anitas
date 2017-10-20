@@ -95,3 +95,7 @@ background-color: rgba(244, 171, 46, 0.89)
 .party2 {
 background-color: orange;
 }
+
+#food{
+  background-image: url(../images/backgrounds/foodsBg.jpg);
+}
