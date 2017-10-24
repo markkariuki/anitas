@@ -163,6 +163,10 @@ background-attachment: fixed;
 .active{
   background-color: white;
 }
+.active img{
+  width: 70%;
+  height: 40%;
+}
 .nav-tabs{
   background-color: lightgrey;
 }
